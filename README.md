@@ -18,7 +18,7 @@
 
 ![Pyhton](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0A4C2B?style=flat-square&logo=Django)
-![DRF](https://img.shields.io/badge/-DRF-E05D44?style=flat-square&logo=DRF)
+![DRF](https://img.shields.io/badge/-DRF-E05D44?style=flat-square&logo=Django)
 
 ### Front-end
 
