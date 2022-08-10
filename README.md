@@ -44,4 +44,6 @@
 
 ### Learning
 
-![MySQL](https://img.shields.io/badge/-MySQL-005168?style=flat-square&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-005168?style=flat-square&logo=MySQL&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=Docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
