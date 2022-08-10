@@ -41,3 +41,7 @@
 
 ![MSDipper Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSDipper&layout=compact&bg_color=141321&text_color=FFFFFF&title_color=F44089&count_private=true&theme=gruvbox)
 
+
+### Learning
+
+![MySQL](https://img.shields.io/badge/-MySQL-005168?style=flat-square&logo=MySQL)
