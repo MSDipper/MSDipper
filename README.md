@@ -33,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=F7F7F7)
 ![WordPress](https://img.shields.io/badge/-WordPress-444444?style=flat-square&logo=WordPress&logoColor=F7F7F7)
 ![GitHub](https://img.shields.io/badge/-Figma-444444?style=flat-square&logo=Figma&logoColor=F70025)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=46A2F1)
+
 
 ### Status
 
