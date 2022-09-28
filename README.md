@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Junior Python Backend Developer
+## Hi there 👋 I'm a Python Backend Developer
 
 <a href="https://t.me/MSD_Junior">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
@@ -31,7 +31,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=Git&logoColor=DD4B25)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=F7F7F7)
-
 ![Figma](https://img.shields.io/badge/-Figma-444444?style=flat-square&logo=Figma&logoColor=F70025)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=46A2F1)
 
