@@ -19,6 +19,8 @@
 ![Pyhton](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0A4C2B?style=flat-square&logo=Django)
 ![DRF](https://img.shields.io/badge/-DRF-E05D44?style=flat-square&logo=Django)
+![Celery](https://img.shields.io/badge/-Celery-00B000?style=flat-square&logo=Celery)
+
 
 ### Front-end
 
