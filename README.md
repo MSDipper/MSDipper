@@ -55,3 +55,4 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-46A2F1?style=flat-square&logo=WordPress&logoColor=F7F7F7)
 ![Flask](https://img.shields.io/badge/-Flask-444444?style=flat-square&logo=Flask&logoColor=F7F7F7)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000)
+![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
