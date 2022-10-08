@@ -56,3 +56,4 @@
 ![Flask](https://img.shields.io/badge/-Flask-444444?style=flat-square&logo=Flask&logoColor=F7F7F7)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
+![DCRF](https://img.shields.io/badge/-DCRF-4b32c3?style=flat-square&logo=Django&logoColor=ffffff)
