@@ -52,8 +52,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-005168?style=flat-square&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0098FF?style=flat-square&logo=Docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
-![WordPress](https://img.shields.io/badge/-WordPress-0052a5?style=flat-square&logo=WordPress&logoColor=F7F7F7)
-![Flask](https://img.shields.io/badge/-Flask-444444?style=flat-square&logo=Flask&logoColor=F7F7F7)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
-![DCRF](https://img.shields.io/badge/-DCRF-4b32c3?style=flat-square&logo=Django&logoColor=ffffff)
