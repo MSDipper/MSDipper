@@ -51,7 +51,6 @@
 
 ### Learning
 
-![MySQL](https://img.shields.io/badge/-MySQL-005168?style=flat-square&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0098FF?style=flat-square&logo=Docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000)
