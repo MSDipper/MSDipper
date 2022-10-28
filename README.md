@@ -31,6 +31,8 @@
 
 ### Tools
 
+
+![Docker](https://img.shields.io/badge/-Docker-0098FF?style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=Git&logoColor=DD4B25)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=F7F7F7)
 ![Figma](https://img.shields.io/badge/-Figma-444444?style=flat-square&logo=Figma&logoColor=F70025)
@@ -51,7 +53,7 @@
 
 ### Learning
 
-![Docker](https://img.shields.io/badge/-Docker-0098FF?style=flat-square&logo=Docker&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
 <!-- ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000) -->
