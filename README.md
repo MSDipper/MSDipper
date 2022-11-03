@@ -55,5 +55,5 @@
 
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
-<!-- ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff) -->
+![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
 <!-- ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000) -->
