@@ -22,6 +22,10 @@
 ![Celery](https://img.shields.io/badge/-Celery-00B000?style=flat-square&logo=Celery)
 
 
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
+
 ### Front-end
 
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat-square&logo=HTML5&logoColor=F7F7F7)
@@ -54,6 +58,5 @@
 ### Learning
 
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
 <!-- ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000) -->
