@@ -48,7 +48,7 @@
 
 ### Status
 
-![MSDipper's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSDipper&bg_color=141321&show_icons=true&theme=radical&include_all_commits=true&count_private=truel)
+![MSDipper's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSDipper&bg_color=141321&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 
 
