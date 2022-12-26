@@ -54,6 +54,8 @@
 
 
 ### Learning
+![Flask](https://img.shields.io/badge/-Flask-2c3e50?style=flat-square&logo=Flask&logoColor=ffffff)
+
 
 <!-- 
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
