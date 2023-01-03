@@ -57,7 +57,7 @@
 
 ### Learning
 
-
+![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
 
 <!-- 
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
