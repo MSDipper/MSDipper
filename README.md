@@ -20,6 +20,7 @@
 ![Django](https://img.shields.io/badge/-Django-0A4C2B?style=flat-square&logo=Django)
 ![DRF](https://img.shields.io/badge/-DRF-E05D44?style=flat-square&logo=Django)
 ![Celery](https://img.shields.io/badge/-Celery-00B000?style=flat-square&logo=Celery)
+
 ![Flask](https://img.shields.io/badge/-Flask-2c3e50?style=flat-square&logo=Flask&logoColor=ffffff)
 
 
