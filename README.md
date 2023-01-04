@@ -58,7 +58,7 @@
 ### Learning
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
-![ORMAR](https://img.shields.io/badge/-ORMAR-f77ac1?style=flat-square&logo=ORMAR&logoColor=000000)
+![ORMAR](https://img.shields.io/badge/-ORMAR-c90505?style=flat-square&logo=ORMAR&logoColor=000000)
 
 <!-- 
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
