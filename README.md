@@ -58,8 +58,10 @@
 ### Learning
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
-![ORMAR](https://img.shields.io/badge/-ORMAR-c90505?style=flat-square&logo=ORMAR&logoColor=000000)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-c21835?style=flat-square&logo=SqlAlchemy&logoColor=ffffff)
+
 
 <!-- 
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
-![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000) -->
+![Django Ninja](https://img.shields.io/badge/-Django_Ninja-c90505?style=flat-square&logo=Django&logoColor=000000)
+![ORMAR](https://img.shields.io/badge/-ORMAR-c90505?style=flat-square&logo=ORMAR&logoColor=000000) -->
