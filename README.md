@@ -58,7 +58,7 @@
 ### Learning
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
-![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-c21835?style=flat-square&logo=SqlAlchemy&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-d12b1f?style=flat-square&logo=Redis&logoColor=f7f7f7)
 
 
 <!-- 
