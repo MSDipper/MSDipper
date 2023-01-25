@@ -27,7 +27,7 @@
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
-
+![Redis](https://img.shields.io/badge/-Redis-d12b1f?style=flat-square&logo=Redis&logoColor=f7f7f7)
 ### Front-end
 
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat-square&logo=HTML5&logoColor=F7F7F7)
@@ -58,7 +58,7 @@
 ### Learning
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-d12b1f?style=flat-square&logo=Redis&logoColor=f7f7f7)
+
 
 
 <!-- 
