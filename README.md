@@ -40,7 +40,7 @@
 
 
 ![Docker](https://img.shields.io/badge/-Docker-0098FF?style=flat-square&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=Git&logoColor=DD4B25)
+![Git](https://img.shields.io/badge/-Git-ffffff?style=flat-square&logo=Git&logoColor=DD4B25)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=F7F7F7)
 ![Figma](https://img.shields.io/badge/-Figma-444444?style=flat-square&logo=Figma&logoColor=F70025)
 
