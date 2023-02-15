@@ -22,7 +22,7 @@
 ![Celery](https://img.shields.io/badge/-Celery-00B000?style=flat-square&logo=Celery)
 
 ![Flask](https://img.shields.io/badge/-Flask-2c3e50?style=flat-square&logo=Flask&logoColor=ffffff)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-d41b0c?style=flat-square&logo=SQLAlchemy&logoColor=2e4d29)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-f6a617?style=flat-square&logo=SQLAlchemy&logoColor=2e4d29)
 
 
 
