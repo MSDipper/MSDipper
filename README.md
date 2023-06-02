@@ -23,6 +23,7 @@
 
 ![Flask](https://img.shields.io/badge/-Flask-2c3e50?style=flat-square&logo=Flask&logoColor=ffffff)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-f6a617?style=flat-square&logo=SQLAlchemy&logoColor=2e4d29)
+![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
 
 
 
@@ -66,9 +67,10 @@
 
 ### Learning
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
+
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat-square&logo=RabbitMQ&logoColor=f76300)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=Go&logoColor=00a7d0)
+![Redux](https://img.shields.io/badge/-Redux-7248b6?style=flat-square&logo=Redux&logoColor=fff)
 
 <!-- 
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
