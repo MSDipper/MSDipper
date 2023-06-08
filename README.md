@@ -70,7 +70,7 @@
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat-square&logo=RabbitMQ&logoColor=f76300)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=Go&logoColor=00a7d0)
-![Redux](https://img.shields.io/badge/-Redux-7248b6?style=flat-square&logo=Redux&logoColor=fff)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-7248b6?style=flat-square&logo=Redux&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=Angular&logoColor=ffffff)
 
 <!-- 
