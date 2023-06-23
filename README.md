@@ -60,9 +60,9 @@
 
 ### Status
 
-![MSDipper's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSDipper&bg_color=141321&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![MSDipper's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSDipper&&include_all_commits=true&theme=radical&show_icons=true&bg_color=141321&count_private=true)
 
-![MSDipper Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSDipper&layout=compact&bg_color=141321&text_color=FFFFFF&title_color=F44089&count_private=true&theme=gruvbox)
+![MSDipper Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSDipper&&layout=compact&bg_color=141321&text_color=FFFFFF&title_color=F44089&count_private=true&theme=gruvbox)
 
 
 ### Learning
