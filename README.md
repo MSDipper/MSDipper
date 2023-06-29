@@ -37,9 +37,11 @@
 ![Redux](https://img.shields.io/badge/-Redux_Toolkit-7248b6?style=flat-square&logo=Redux&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2862E9?style=flat-square&logo=TypeScript&logoColor=ffffff)
 
+![Gulp](https://img.shields.io/badge/-Gulp-ca4545?style=flat-square&logo=Gulp&logoColor=F7F7F7)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=5ed3f3)
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat-square&logo=HTML5&logoColor=F7F7F7)
 ![CSS3](https://img.shields.io/badge/-CSS3-2862E9?style=flat-square&logo=CSS3&logoColor=F7F7F7)
+
 ![Sass](https://img.shields.io/badge/-Sass-C66394?style=flat-square&logo=Sass&logoColor=F7F7F7)
 
 
@@ -61,11 +63,10 @@
 
 ### Status
 
-![MSDipper's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSDipper&&include_all_commits=true&theme=radical&show_icons=true&bg_color=141321&count_private=true)
 
-![MSDipper Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSDipper&&layout=compact&bg_color=141321&text_color=FFFFFF&title_color=F44089&count_private=true&theme=gruvbox)
+![MSDipper GitHub status](https://github-readme-stats.vercel.app/api?username=MSDipper&&include_all_commits=true&theme=radical&show_icons=true&bg_color=141321&count_private=true)
 
-
+![MSDipper Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSDipper&&layout=compact&bg_color=141321&text_color=FFFFFF&title_color=F44089&count_private=true)
 ### Learning
 
 
