@@ -57,7 +57,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-f56933?style=flat-square&logo=Postman&logoColor=F7F7F7)
 
 ![GitLab](https://img.shields.io/badge/-GitLab-161220?style=flat-square&logo=GitLab&logoColor=e24329)
-
+![WordPress](https://img.shields.io/badge/-WordPress-0098FF?style=flat-square&logo=WordPress&logoColor=F7F7F7)
 
 
 
