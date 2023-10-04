@@ -58,7 +58,7 @@
 
 ![GitLab](https://img.shields.io/badge/-GitLab-161220?style=flat-square&logo=GitLab&logoColor=e24329)
 ![WordPress](https://img.shields.io/badge/-WordPress-0098FF?style=flat-square&logo=WordPress&logoColor=F7F7F7)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0e111c?style=flat-square&logo=Tailwindcss&logoColor=0098FF)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-00010B?style=flat-square&logo=Tailwindcss&logoColor=0098FF)
 
 
 
