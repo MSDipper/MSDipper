@@ -49,15 +49,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-0098FF?style=flat-square&logo=Docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-151e25?style=flat-square&logo=GraphQL&logoColor=da0093)
 ![Git](https://img.shields.io/badge/-Git-323232?style=flat-square&logo=Git&logoColor=e84e31)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=F7F7F7)
+![GitHub](https://img.shields.io/badge/-GitHub-00010B?style=flat-square&logo=GitHub&logoColor=F7F7F7)
 
 ![Gulp](https://img.shields.io/badge/-Gulp-ca4545?style=flat-square&logo=Gulp&logoColor=F7F7F7)
 ![Figma](https://img.shields.io/badge/-Figma-0f246b?style=flat-square&logo=Figma&logoColor=f60023)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=46A2F1)
+![Linux](https://img.shields.io/badge/-Linux-00010B?style=flat-square&logo=Linux&logoColor=46A2F1)
 ![Postman](https://img.shields.io/badge/-Postman-f56933?style=flat-square&logo=Postman&logoColor=F7F7F7)
 
 ![GitLab](https://img.shields.io/badge/-GitLab-161220?style=flat-square&logo=GitLab&logoColor=e24329)
 ![WordPress](https://img.shields.io/badge/-WordPress-0098FF?style=flat-square&logo=WordPress&logoColor=F7F7F7)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0e111c?style=flat-square&logo=Tailwindcss&logoColor=0098FF)
 
 
 
