@@ -60,7 +60,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-0098FF?style=flat-square&logo=WordPress&logoColor=F7F7F7)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-00010B?style=flat-square&logo=Tailwindcss&logoColor=0098FF)
 
-
+![MUI](https://img.shields.io/badge/-Material_UI-ffffff?style=flat-square&logo=MUI&logoColor=0098FF)
 
 ### Status
 
