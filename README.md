@@ -75,6 +75,7 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat-square&logo=RabbitMQ&logoColor=f76300)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=Go&logoColor=00a7d0)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=Angular&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-11003b?style=flat-square&logo=Vue.js&logoColor=3fb27f)
 
 <!-- 
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
