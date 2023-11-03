@@ -39,8 +39,8 @@
 
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=35e7f5)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-160a7d?style=flat-square&logo=Tailwindcss&logoColor=0098FF)
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat-square&logo=HTML5&logoColor=F7F7F7)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-160a7d?style=flat-square&logo=Tailwindcss&logoColor=0098FF)
 ![CSS3](https://img.shields.io/badge/-CSS3-2862E9?style=flat-square&logo=CSS3&logoColor=F7F7F7)
 
 
