@@ -22,7 +22,7 @@
 ![Celery](https://img.shields.io/badge/-Celery-00B000?style=flat-square&logo=Celery)
 
 ![Flask](https://img.shields.io/badge/-Flask-2c3e50?style=flat-square&logo=Flask&logoColor=ffffff)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-c31734?style=flat-square&logo=SQLAlchemy&logoColor=000)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-c31734?style=flat-square&logo=SQLAlchemy&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
 
 
