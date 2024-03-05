@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Full-Stack Developer
+## Hi there 👋 I'm a Frontend Developer
 
 <!--<a href="https://t.me/MSD_FR">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-### Back-end
+<!--### Back-end
 
 ![Pyhton](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0A4C2B?style=flat-square&logo=Django)
@@ -31,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-d12b1f?style=flat-square&logo=Redis&logoColor=f7f7f7)
 ### Front-end
-
+-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=efd81d)
 ![Redux](https://img.shields.io/badge/-Redux_Toolkit-6438b1?style=flat-square&logo=Redux&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-354db8?style=flat-square&logo=TypeScript&logoColor=ffffff)
