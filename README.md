@@ -32,17 +32,17 @@
 ![Redis](https://img.shields.io/badge/-Redis-d12b1f?style=flat-square&logo=Redis&logoColor=f7f7f7)
 ### Front-end
 -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=efd81d)
-![Redux](https://img.shields.io/badge/-Redux_Toolkit-6438b1?style=flat-square&logo=Redux&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-17304f?style=flat-square&logo=JavaScript&logoColor=efd81d)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-354db8?style=flat-square&logo=TypeScript&logoColor=ffffff)
-
+![Node](https://img.shields.io/badge/-Node.js-f7f7f7?style=flat-square&logo=Node.js&logoColor=7bb800)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=35e7f5)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-6438b1?style=flat-square&logo=Redux&logoColor=fff)
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat-square&logo=HTML5&logoColor=F7F7F7)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-160a7d?style=flat-square&logo=Tailwindcss&logoColor=0098FF)
 ![CSS3](https://img.shields.io/badge/-CSS3-2862E9?style=flat-square&logo=CSS3&logoColor=F7F7F7)
-
-
 ![Sass](https://img.shields.io/badge/-Sass-C66394?style=flat-square&logo=Sass&logoColor=F7F7F7)
 
 
@@ -75,9 +75,11 @@
 ### Learning
 
 
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat-square&logo=RabbitMQ&logoColor=f76300)
+<!-- ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat-square&logo=RabbitMQ&logoColor=f76300)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=Angular&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-11003b?style=flat-square&logo=Vue.js&logoColor=3fb27f)
+![Vue.js](https://img.shields.io/badge/-Vue.js-11003b?style=flat-square&logo=Vue.js&logoColor=3fb27f) -->
+![Nest.js](https://img.shields.io/badge/-NestJS-11003b?style=flat-square&logo=NestJS&logoColor=e32642) 
+
 
 <!-- 
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
