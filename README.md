@@ -1,9 +1,9 @@
-## Hi there 👋 I'm a Full-Stack Developer
+## Hi there 👋
 
-<a href="https://t.me/MSD_FR">
+<!--<a href="https://t.me/MSD_FR">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
 </a>
-<!-- <a href="https://discord.gg/4tBvG4reNq">
+ <a href="https://discord.gg/4tBvG4reNq">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="#">
@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-### Back-end
+<!--### Back-end
 
 ![Pyhton](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0A4C2B?style=flat-square&logo=Django)
@@ -23,7 +23,6 @@
 
 ![Flask](https://img.shields.io/badge/-Flask-2c3e50?style=flat-square&logo=Flask&logoColor=ffffff)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-c31734?style=flat-square&logo=SQLAlchemy&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
 
  
 
@@ -32,18 +31,18 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-d12b1f?style=flat-square&logo=Redis&logoColor=f7f7f7)
 ### Front-end
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=efd81d)
-![Redux](https://img.shields.io/badge/-Redux_Toolkit-6438b1?style=flat-square&logo=Redux&logoColor=fff)
+-->
+![JavaScript](https://img.shields.io/badge/-JavaScript-17304f?style=flat-square&logo=JavaScript&logoColor=efd81d)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-354db8?style=flat-square&logo=TypeScript&logoColor=ffffff)
-
+![Node](https://img.shields.io/badge/-Node.js-f7f7f7?style=flat-square&logo=Node.js&logoColor=7bb800)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=35e7f5)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-6438b1?style=flat-square&logo=Redux&logoColor=fff)
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat-square&logo=HTML5&logoColor=F7F7F7)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-160a7d?style=flat-square&logo=Tailwindcss&logoColor=0098FF)
 ![CSS3](https://img.shields.io/badge/-CSS3-2862E9?style=flat-square&logo=CSS3&logoColor=F7F7F7)
-
-
 ![Sass](https://img.shields.io/badge/-Sass-C66394?style=flat-square&logo=Sass&logoColor=F7F7F7)
 
 
@@ -77,10 +76,11 @@
 ### Learning
 
 
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat-square&logo=RabbitMQ&logoColor=f76300)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=Go&logoColor=00a7d0)
+<!-- ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ffffff?style=flat-square&logo=RabbitMQ&logoColor=f76300)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=Angular&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-11003b?style=flat-square&logo=Vue.js&logoColor=3fb27f)
+![Vue.js](https://img.shields.io/badge/-Vue.js-11003b?style=flat-square&logo=Vue.js&logoColor=3fb27f) -->
+![Nest.js](https://img.shields.io/badge/-NestJS-11003b?style=flat-square&logo=NestJS&logoColor=e32642) 
+
 
 <!-- 
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django&logoColor=ffffff)
