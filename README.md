@@ -25,9 +25,9 @@
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-c31734?style=flat-square&logo=SQLAlchemy&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-059386?style=flat-square&logo=FastAPI&logoColor=ffffff)
 
+ 
 
-
-### Databases
+### Databases 
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C3E50?style=flat-square&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-d12b1f?style=flat-square&logo=Redis&logoColor=f7f7f7)
@@ -69,8 +69,9 @@
 
 ### Status
 
+![Codewars](https://github.r2v.ch/codewars?user=MSDipper&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
-![MSDipper GitHub status](https://github-readme-stats.vercel.app/api?username=MSDipper&&include_all_commits=true&count_private=true&theme=radical&show_icons=true)
+![MSDipper GitHub status](https://github-readme-stats.vercel.app/api?username=MSDipper&&include_all_commits=true&count_private=true&theme=algolia&show_icons=true)
 
 ![MSDipper Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSDipper&&layout=compact&bg_color=141321&text_color=FFFFFF&title_color=F44089&count_private=true)
 ### Learning
