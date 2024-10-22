@@ -68,7 +68,7 @@
 
 ### Status
 
-![Codewars](https://github.r2v.ch/codewars?user=MSDipper&name=true&top_languages=true&stroke=%23b362ff&theme=midnight_blue)
+![Codewars](https://github.r2v.ch/codewars?user=MSDipper&name=true&top_languages=true&theme=midnight_blue)
 
 ![MSDipper GitHub status](https://github-readme-stats.vercel.app/api?username=MSDipper&&include_all_commits=true&count_private=true&theme=algolia&show_icons=true)
 
