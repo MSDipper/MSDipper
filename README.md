@@ -68,11 +68,11 @@
 
 ### Status
 
-![Codewars](https://github.r2v.ch/codewars?user=MSDipper&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=MSDipper&name=true&top_languages=true&stroke=%23b362ff&theme=midnight_blue)
 
 ![MSDipper GitHub status](https://github-readme-stats.vercel.app/api?username=MSDipper&&include_all_commits=true&count_private=true&theme=algolia&show_icons=true)
 
-![MSDipper Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSDipper&&layout=compact&bg_color=141321&text_color=FFFFFF&title_color=F44089&count_private=true)
+![MSDipper Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSDipper&&layout=compact&bg_color=050f2c&text_color=FFFFFF&title_color=00a9f9&count_private=true)
 ### Learning
 
 
